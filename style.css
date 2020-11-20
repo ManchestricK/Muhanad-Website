@@ -55,7 +55,7 @@ main{
     background-color: rgb(255, 55, 55);
     border-top: 3px solid white;
     animation-name: changeBackground;
-    animation-duration: s;
+    animation-duration: 20s;
     animation-iteration-count: infinite;
 
 }
